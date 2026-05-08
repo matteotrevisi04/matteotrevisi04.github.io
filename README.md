@@ -235,7 +235,6 @@ footer{padding:3rem;border-top:1px solid rgba(255,255,255,0.05);display:flex;jus
         </div>
       </div>
     </div>
-  </div>
 </section>
 
 <!-- PAIN -->

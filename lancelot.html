@@ -202,7 +202,7 @@ footer{padding:3rem;border-top:1px solid rgba(255,255,255,0.05);display:flex;jus
             <img src="foto.jpg" alt="Lancelot" />
             Assicurati che la foto sia nella stessa cartella del file HTML.
           -->
-          <div class="bio-photo-placeholder">
+          <img src="profilo.jpg" alt="Lancelot" />
             <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1">
               <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
               <circle cx="12" cy="7" r="4"/>
@@ -365,7 +365,7 @@ footer{padding:3rem;border-top:1px solid rgba(255,255,255,0.05);display:flex;jus
       <h2 class="sec-h2">Due Porte.<br><span style="color:var(--lime)">Un Obiettivo.</span></h2>
     </div>
     <div class="links-grid">
-      <a href="https://linkedin.com" target="_blank" class="link-card reveal reveal-d1">
+      <a href="https://www.linkedin.com/in/matteotrevisi/" target="_blank" class="link-card reveal reveal-d1">
         <div class="link-number">01</div>
         <div class="link-tag">Profilo Professionale</div>
         <div class="link-title">Il Mio<br>Hammer su<br>LinkedIn</div>
@@ -375,7 +375,7 @@ footer{padding:3rem;border-top:1px solid rgba(255,255,255,0.05);display:flex;jus
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
         </div>
       </a>
-      <a href="https://miro.com" target="_blank" class="link-card reveal reveal-d2">
+      <a href="https://miro.com/welcomeonboard/QlFvNXRUa1BPZEsyTmdUSGYrWHFwK05wN2IyZXl1dnhiQW5pM3ZQZlRWeGdnZy8wUm9ydzlja2tjdmk2YTIrbW9Ec0IvbVAxQklMNHFEeUZBOUloazVoTHNHSE9RNFVlNzhucXZWZVRhcW50WEplTkwwa05DTG9INERheWRXQk1yVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=573611647287" target="_blank" class="link-card reveal reveal-d2">
         <div class="link-number">02</div>
         <div class="link-tag">Business Model Canvas</div>
         <div class="link-title">La Strategia<br>Integrale<br>su Miro</div>

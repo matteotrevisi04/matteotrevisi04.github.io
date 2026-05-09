@@ -220,10 +220,10 @@ footer{padding:3rem;border-top:1px solid rgba(255,255,255,0.05);display:flex;jus
           "Ho smesso di guardare solo ai bit e ai bulloni per guardare al valore di business."
         </div>
         <p class="bio-text">
-          Sono un <span class="highlight">Ingegnere dell'Automazione</span> che ha smesso di guardare solo ai bit e ai bulloni per guardare al valore di business. Mi definisco un <span class="highlight">'Bridge Builder'</span> tra l'Intelligenza Artificiale Generativa e la meccanica industriale.
+          Sono un Ingegnere dell'Automazione che ha smesso di guardare solo ai bit e ai bulloni per guardare al valore di business. Mi definisco un Bridge Builder tra l'Intelligenza Artificiale Generativa e la meccanica industriale.
         </p>
         <p class="bio-text">
-          Il mio obiettivo è trasformare fabbriche rigide in ecosistemi autonomi, usando il <span class="highlight">#VIBECODING</span> per abbattere i tempi di sviluppo e i costi di integrazione.
+          Il mio obiettivo è trasformare fabbriche rigide in ecosistemi autonomi, usando il Vibecoding per abbattere i tempi di sviluppo e i costi di integrazione.
         </p>
         <div class="bio-tags">
           <span class="bio-tag">Industria 5.0</span>

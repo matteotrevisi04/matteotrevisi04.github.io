@@ -212,7 +212,7 @@ footer{padding:3rem;border-top:1px solid rgba(255,255,255,0.05);display:flex;jus
           <div class="photo-corner tl"></div>
           <div class="photo-corner br"></div>
         </div>
-        <div class="bio-name">Lancelot</div>
+        <div class="bio-name">Trevisi Matteo</div>
         <div class="bio-role">Automation Engineer · AI Bridge Builder</div>
       </div>
       <div class="reveal reveal-d2">
